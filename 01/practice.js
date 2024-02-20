@@ -1,0 +1,11 @@
+console.log("Hello Every One");
+let num1=5;
+let num2=3;
+let str1="Hello";
+let str2="One";
+console.log(" my numbers:",num1,num2);
+console.log(" my strings:",str1,str2);
+console.log("type of num1:",typeof num1,"and type of num2:",typeof num2);
+console.log("type of str1:",typeof str1,"and type of str2:",typeof str2);
+let array=[5,"Hello",3,"one"];
+console.log(" my array list",array);
